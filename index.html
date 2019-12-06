@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Ransomware Defense por Hacker Game</title>
+	<style>
+    /* ┌ fonts ─────────────────────────────────────────────────────────────┐ */
+    @font-face {
+      font-family: "RobotoMono-Regular";
+      src: url("assets/fonts/RobotoMono-Regular.ttf") format('truetype');
+    }
+
+    @font-face {
+      font-family: "RobotoMono-Thin";
+      src: url("assets/fonts/RobotoMono-Thin.ttf") format('truetype');
+    }
+
+    @font-face {
+      font-family: "RobotoMono-Bold";
+      src: url("assets/fonts/RobotoMono-Bold.ttf") format('truetype');
+    }
+
+    @font-face {
+      font-family: "RobotoMono-Light";
+      src: url("assets/fonts/RobotoMono-Light.ttf") format('truetype');
+    }
+
+    @font-face {
+      font-family: "RobotoMono-Medium";
+      src: url("assets/fonts/RobotoMono-Medium.ttf") format('truetype');
+    }
+    /* └────────────────────────────────────────────────────────────────────┘ */
+		/* ┌ canvas styles ─────────────────────────────────────────────────────┐ */
+		html,
+		body {
+			margin: 0 auto;
+			box-sizing: border-box;
+			background-color: #b13e53;
+      height: 100%;
+      padding: 0;
+		}
+
+    #gameContainer {
+      height: 100%;
+    }
+
+	    canvas#game:-moz-full-screen {
+	      height: 100vh;
+	    }
+
+	    canvas#game:-webkit-full-screen {
+	      height: 100vh;
+	    }
+
+	    canvas#game:fullscreen {
+	      height: 100vh;
+	    }
+
+		/* └────────────────────────────────────────────────────────────────────┘ */
+		/* ┌ dat.GUI styles ────────────────────────────────────────────────────┐ */
+		.dg.ac {
+			top: 50px !important;
+		}
+
+		.dg main a {
+			margin: 0;
+		}
+
+		/* └────────────────────────────────────────────────────────────────────┘ */
+	</style>
+</head>
+
+<body>
+  <!-- <script src="https://www.gstatic.com/firebasejs/7.0.0/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/7.0.0/firebase-firestore.js"></script> -->
+  <div id="gameContainer">
+    <canvas id='game' autofocus></canvas>
+  </div>
+<script type="text/javascript" src="app.bundle.js"></script></body>
+
+</html>
