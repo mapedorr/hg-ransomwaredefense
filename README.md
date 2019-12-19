@@ -20,6 +20,9 @@ Versión pública del juego Ransomware Defense de Hacker Game.
 - [x] La acción RESTAURAR se inhabilita si el trabajador no tiene datos de respaldo.
 - [x] El monto a pagar por un secuestro aumenta en $1'000.000 al finalizar cada jornada.
 - [x] El monto a pagar por un secuestro aumenta en $5'000.000 con cada pago realizado.
+- [x] El progreso de una tarea en ejecución se muestra con una barra que se llena.
+- [x] Los hackers seleccionan un trabajador al azar para atacarlo.
+- [x] Se pueden asignar tareas a más de un trabajador a la vez.
 
 ## Estética:
 - [x] Primera versión del panel de Alerta.
