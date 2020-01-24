@@ -2,16 +2,16 @@
 Versión pública del juego Ransomware Defense de Hacker Game.
 
 ## Mecánicas:
-- [ ] Tutoriales contextuales de acciones básicas.
+- [x] Tutoriales contextuales de acciones básicas.
 - [ ] Atajos de teclado para seleccionar trabajador y ejecutar acciones.
-- [ ] Implementada nueva versión de GUI:
+- [x] Implementada nueva versión de GUI:
   - [x] Panel de jornada.
   - [x] Panel de alerta.
   - [x] Panel de acciones.
   - [x] Panel de datos y fondos.
   - [x] Popup de actualización de SO.
   - [x] Popup de pago de ransomware.
-  - [ ] Popup de identificación de ransomware.
+  - [x] Popup de identificación de ransomware.
   - [x] Popup de desencriptación de archivos.
 - [x] Grilla con 9 trabajadores.
 - [x] El trabajador puede capacitarse.
