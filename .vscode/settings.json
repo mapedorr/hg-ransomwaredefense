@@ -1,0 +1,16 @@
+{
+    "editor.tabSize": 2,
+    "editor.detectIndentation": false,
+    "workbench.colorTheme": "LaserWave",
+    "eslint.alwaysShowStatus": true,
+    "workbench.colorCustomizations": {
+      "titleBar.activeForeground": "#f4f4f4",
+      "titleBar.inactiveForeground": "#f4f4f4CC",
+      "titleBar.activeBackground": "#b13e53",
+      "titleBar.inactiveBackground": "#b13e53CC"
+    },
+    "editor.cursorBlinking": "solid",
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.cursorStyle": "block",
+    "editor.fontFamily": "Fira Code"
+}
