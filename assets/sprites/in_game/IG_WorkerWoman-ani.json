@@ -1,0 +1,1931 @@
+{
+	"textures": [
+		{
+			"image": "IG_WorkerWoman-ani.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 512,
+				"h": 917
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "achieve_14.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 28,
+						"y": 35,
+						"w": 74,
+						"h": 69
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 74,
+						"h": 69
+					}
+				},
+				{
+					"filename": "achieve_13.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 33,
+						"w": 72,
+						"h": 71
+					},
+					"frame": {
+						"x": 77,
+						"y": 1,
+						"w": 72,
+						"h": 71
+					}
+				},
+				{
+					"filename": "achieve_15.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 32,
+						"w": 70,
+						"h": 72
+					},
+					"frame": {
+						"x": 151,
+						"y": 1,
+						"w": 70,
+						"h": 72
+					}
+				},
+				{
+					"filename": "achieve_12.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 30,
+						"w": 70,
+						"h": 74
+					},
+					"frame": {
+						"x": 223,
+						"y": 1,
+						"w": 70,
+						"h": 74
+					}
+				},
+				{
+					"filename": "achieve_16.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 28,
+						"w": 68,
+						"h": 76
+					},
+					"frame": {
+						"x": 295,
+						"y": 1,
+						"w": 68,
+						"h": 76
+					}
+				},
+				{
+					"filename": "achieve_19.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 27,
+						"w": 66,
+						"h": 77
+					},
+					"frame": {
+						"x": 365,
+						"y": 1,
+						"w": 66,
+						"h": 77
+					}
+				},
+				{
+					"filename": "achieve_11.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 26,
+						"w": 66,
+						"h": 78
+					},
+					"frame": {
+						"x": 433,
+						"y": 1,
+						"w": 66,
+						"h": 78
+					}
+				},
+				{
+					"filename": "achieve_20.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 26,
+						"w": 66,
+						"h": 78
+					},
+					"frame": {
+						"x": 1,
+						"y": 72,
+						"w": 66,
+						"h": 78
+					}
+				},
+				{
+					"filename": "achieve_21.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 26,
+						"w": 66,
+						"h": 78
+					},
+					"frame": {
+						"x": 69,
+						"y": 74,
+						"w": 66,
+						"h": 78
+					}
+				},
+				{
+					"filename": "achieve_22.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 26,
+						"w": 66,
+						"h": 78
+					},
+					"frame": {
+						"x": 137,
+						"y": 75,
+						"w": 66,
+						"h": 78
+					}
+				},
+				{
+					"filename": "achieve_23.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 26,
+						"w": 66,
+						"h": 78
+					},
+					"frame": {
+						"x": 205,
+						"y": 77,
+						"w": 66,
+						"h": 78
+					}
+				},
+				{
+					"filename": "achieve_24.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 26,
+						"w": 66,
+						"h": 78
+					},
+					"frame": {
+						"x": 273,
+						"y": 79,
+						"w": 66,
+						"h": 78
+					}
+				},
+				{
+					"filename": "achieve_25.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 26,
+						"w": 66,
+						"h": 78
+					},
+					"frame": {
+						"x": 341,
+						"y": 80,
+						"w": 66,
+						"h": 78
+					}
+				},
+				{
+					"filename": "achieve_26.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 26,
+						"w": 66,
+						"h": 78
+					},
+					"frame": {
+						"x": 409,
+						"y": 81,
+						"w": 66,
+						"h": 78
+					}
+				},
+				{
+					"filename": "achieve_0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 0,
+						"w": 34,
+						"h": 105
+					},
+					"frame": {
+						"x": 477,
+						"y": 81,
+						"w": 34,
+						"h": 105
+					}
+				},
+				{
+					"filename": "achieve_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 0,
+						"w": 34,
+						"h": 105
+					},
+					"frame": {
+						"x": 477,
+						"y": 81,
+						"w": 34,
+						"h": 105
+					}
+				},
+				{
+					"filename": "achieve_27.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 26,
+						"w": 66,
+						"h": 78
+					},
+					"frame": {
+						"x": 1,
+						"y": 152,
+						"w": 66,
+						"h": 78
+					}
+				},
+				{
+					"filename": "achieve_28.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 26,
+						"w": 66,
+						"h": 78
+					},
+					"frame": {
+						"x": 69,
+						"y": 154,
+						"w": 66,
+						"h": 78
+					}
+				},
+				{
+					"filename": "achieve_29.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 26,
+						"w": 66,
+						"h": 78
+					},
+					"frame": {
+						"x": 137,
+						"y": 155,
+						"w": 66,
+						"h": 78
+					}
+				},
+				{
+					"filename": "idle_0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 25,
+						"w": 66,
+						"h": 78
+					},
+					"frame": {
+						"x": 205,
+						"y": 157,
+						"w": 66,
+						"h": 78
+					}
+				},
+				{
+					"filename": "reject_21.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 26,
+						"w": 66,
+						"h": 78
+					},
+					"frame": {
+						"x": 205,
+						"y": 157,
+						"w": 66,
+						"h": 78
+					}
+				},
+				{
+					"filename": "reject_22.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 26,
+						"w": 66,
+						"h": 78
+					},
+					"frame": {
+						"x": 205,
+						"y": 157,
+						"w": 66,
+						"h": 78
+					}
+				},
+				{
+					"filename": "reject_23.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 26,
+						"w": 66,
+						"h": 78
+					},
+					"frame": {
+						"x": 205,
+						"y": 157,
+						"w": 66,
+						"h": 78
+					}
+				},
+				{
+					"filename": "reject_24.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 26,
+						"w": 66,
+						"h": 78
+					},
+					"frame": {
+						"x": 205,
+						"y": 157,
+						"w": 66,
+						"h": 78
+					}
+				},
+				{
+					"filename": "reject_25.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 26,
+						"w": 66,
+						"h": 78
+					},
+					"frame": {
+						"x": 205,
+						"y": 157,
+						"w": 66,
+						"h": 78
+					}
+				},
+				{
+					"filename": "reject_26.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 26,
+						"w": 66,
+						"h": 78
+					},
+					"frame": {
+						"x": 205,
+						"y": 157,
+						"w": 66,
+						"h": 78
+					}
+				},
+				{
+					"filename": "reject_27.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 26,
+						"w": 66,
+						"h": 78
+					},
+					"frame": {
+						"x": 205,
+						"y": 157,
+						"w": 66,
+						"h": 78
+					}
+				},
+				{
+					"filename": "reject_28.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 26,
+						"w": 66,
+						"h": 78
+					},
+					"frame": {
+						"x": 205,
+						"y": 157,
+						"w": 66,
+						"h": 78
+					}
+				},
+				{
+					"filename": "reject_29.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 26,
+						"w": 66,
+						"h": 78
+					},
+					"frame": {
+						"x": 205,
+						"y": 157,
+						"w": 66,
+						"h": 78
+					}
+				},
+				{
+					"filename": "infect_16.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 24,
+						"w": 66,
+						"h": 78
+					},
+					"frame": {
+						"x": 273,
+						"y": 159,
+						"w": 66,
+						"h": 78
+					}
+				},
+				{
+					"filename": "infect_18.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 22,
+						"w": 66,
+						"h": 78
+					},
+					"frame": {
+						"x": 341,
+						"y": 160,
+						"w": 66,
+						"h": 78
+					}
+				},
+				{
+					"filename": "infect_19.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 26,
+						"w": 66,
+						"h": 78
+					},
+					"frame": {
+						"x": 409,
+						"y": 161,
+						"w": 66,
+						"h": 78
+					}
+				},
+				{
+					"filename": "infect_20.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 28,
+						"w": 66,
+						"h": 78
+					},
+					"frame": {
+						"x": 1,
+						"y": 232,
+						"w": 66,
+						"h": 78
+					}
+				},
+				{
+					"filename": "infect_21.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 29,
+						"w": 66,
+						"h": 78
+					},
+					"frame": {
+						"x": 69,
+						"y": 234,
+						"w": 66,
+						"h": 78
+					}
+				},
+				{
+					"filename": "infect_22.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 26,
+						"w": 66,
+						"h": 78
+					},
+					"frame": {
+						"x": 137,
+						"y": 235,
+						"w": 66,
+						"h": 78
+					}
+				},
+				{
+					"filename": "infect_23.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 24,
+						"w": 66,
+						"h": 78
+					},
+					"frame": {
+						"x": 205,
+						"y": 237,
+						"w": 66,
+						"h": 78
+					}
+				},
+				{
+					"filename": "infect_24.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 27,
+						"w": 66,
+						"h": 78
+					},
+					"frame": {
+						"x": 273,
+						"y": 239,
+						"w": 66,
+						"h": 78
+					}
+				},
+				{
+					"filename": "infect_25.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 28,
+						"w": 66,
+						"h": 78
+					},
+					"frame": {
+						"x": 341,
+						"y": 240,
+						"w": 66,
+						"h": 78
+					}
+				},
+				{
+					"filename": "infect_14.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 38,
+						"y": 23,
+						"w": 67,
+						"h": 78
+					},
+					"frame": {
+						"x": 409,
+						"y": 241,
+						"w": 67,
+						"h": 78
+					}
+				},
+				{
+					"filename": "infect_26.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 29,
+						"w": 66,
+						"h": 78
+					},
+					"frame": {
+						"x": 1,
+						"y": 312,
+						"w": 66,
+						"h": 78
+					}
+				},
+				{
+					"filename": "infect_27.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 29,
+						"w": 66,
+						"h": 78
+					},
+					"frame": {
+						"x": 69,
+						"y": 314,
+						"w": 66,
+						"h": 78
+					}
+				},
+				{
+					"filename": "infect_28.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 29,
+						"w": 66,
+						"h": 78
+					},
+					"frame": {
+						"x": 137,
+						"y": 315,
+						"w": 66,
+						"h": 78
+					}
+				},
+				{
+					"filename": "infect_29.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 29,
+						"w": 66,
+						"h": 78
+					},
+					"frame": {
+						"x": 205,
+						"y": 317,
+						"w": 66,
+						"h": 78
+					}
+				},
+				{
+					"filename": "infect_6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 31,
+						"w": 66,
+						"h": 78
+					},
+					"frame": {
+						"x": 273,
+						"y": 319,
+						"w": 66,
+						"h": 78
+					}
+				},
+				{
+					"filename": "reject_0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 26,
+						"w": 66,
+						"h": 78
+					},
+					"frame": {
+						"x": 341,
+						"y": 320,
+						"w": 66,
+						"h": 78
+					}
+				},
+				{
+					"filename": "reject_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 26,
+						"w": 66,
+						"h": 78
+					},
+					"frame": {
+						"x": 341,
+						"y": 320,
+						"w": 66,
+						"h": 78
+					}
+				},
+				{
+					"filename": "reject_10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 26,
+						"w": 66,
+						"h": 78
+					},
+					"frame": {
+						"x": 409,
+						"y": 321,
+						"w": 66,
+						"h": 78
+					}
+				},
+				{
+					"filename": "reject_11.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 26,
+						"w": 66,
+						"h": 78
+					},
+					"frame": {
+						"x": 1,
+						"y": 392,
+						"w": 66,
+						"h": 78
+					}
+				},
+				{
+					"filename": "reject_12.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 26,
+						"w": 66,
+						"h": 78
+					},
+					"frame": {
+						"x": 69,
+						"y": 394,
+						"w": 66,
+						"h": 78
+					}
+				},
+				{
+					"filename": "reject_13.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 26,
+						"w": 66,
+						"h": 78
+					},
+					"frame": {
+						"x": 137,
+						"y": 395,
+						"w": 66,
+						"h": 78
+					}
+				},
+				{
+					"filename": "reject_14.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 26,
+						"w": 66,
+						"h": 78
+					},
+					"frame": {
+						"x": 205,
+						"y": 397,
+						"w": 66,
+						"h": 78
+					}
+				},
+				{
+					"filename": "reject_15.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 26,
+						"w": 66,
+						"h": 78
+					},
+					"frame": {
+						"x": 273,
+						"y": 399,
+						"w": 66,
+						"h": 78
+					}
+				},
+				{
+					"filename": "reject_16.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 26,
+						"w": 66,
+						"h": 78
+					},
+					"frame": {
+						"x": 341,
+						"y": 400,
+						"w": 66,
+						"h": 78
+					}
+				},
+				{
+					"filename": "reject_17.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 26,
+						"w": 66,
+						"h": 78
+					},
+					"frame": {
+						"x": 409,
+						"y": 401,
+						"w": 66,
+						"h": 78
+					}
+				},
+				{
+					"filename": "reject_18.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 26,
+						"w": 66,
+						"h": 78
+					},
+					"frame": {
+						"x": 1,
+						"y": 472,
+						"w": 66,
+						"h": 78
+					}
+				},
+				{
+					"filename": "reject_19.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 26,
+						"w": 66,
+						"h": 78
+					},
+					"frame": {
+						"x": 69,
+						"y": 474,
+						"w": 66,
+						"h": 78
+					}
+				},
+				{
+					"filename": "reject_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 26,
+						"w": 66,
+						"h": 78
+					},
+					"frame": {
+						"x": 137,
+						"y": 475,
+						"w": 66,
+						"h": 78
+					}
+				},
+				{
+					"filename": "reject_20.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 26,
+						"w": 66,
+						"h": 78
+					},
+					"frame": {
+						"x": 205,
+						"y": 477,
+						"w": 66,
+						"h": 78
+					}
+				},
+				{
+					"filename": "reject_3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 26,
+						"w": 66,
+						"h": 78
+					},
+					"frame": {
+						"x": 273,
+						"y": 479,
+						"w": 66,
+						"h": 78
+					}
+				},
+				{
+					"filename": "reject_4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 26,
+						"w": 66,
+						"h": 78
+					},
+					"frame": {
+						"x": 341,
+						"y": 480,
+						"w": 66,
+						"h": 78
+					}
+				},
+				{
+					"filename": "reject_5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 26,
+						"w": 66,
+						"h": 78
+					},
+					"frame": {
+						"x": 409,
+						"y": 481,
+						"w": 66,
+						"h": 78
+					}
+				},
+				{
+					"filename": "reject_6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 26,
+						"w": 66,
+						"h": 78
+					},
+					"frame": {
+						"x": 1,
+						"y": 552,
+						"w": 66,
+						"h": 78
+					}
+				},
+				{
+					"filename": "reject_7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 26,
+						"w": 66,
+						"h": 78
+					},
+					"frame": {
+						"x": 69,
+						"y": 554,
+						"w": 66,
+						"h": 78
+					}
+				},
+				{
+					"filename": "reject_8.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 26,
+						"w": 66,
+						"h": 78
+					},
+					"frame": {
+						"x": 137,
+						"y": 555,
+						"w": 66,
+						"h": 78
+					}
+				},
+				{
+					"filename": "reject_9.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 26,
+						"w": 66,
+						"h": 78
+					},
+					"frame": {
+						"x": 205,
+						"y": 557,
+						"w": 66,
+						"h": 78
+					}
+				},
+				{
+					"filename": "infect_11.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 21,
+						"w": 66,
+						"h": 79
+					},
+					"frame": {
+						"x": 273,
+						"y": 559,
+						"w": 66,
+						"h": 79
+					}
+				},
+				{
+					"filename": "infect_12.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 38,
+						"y": 20,
+						"w": 66,
+						"h": 79
+					},
+					"frame": {
+						"x": 341,
+						"y": 560,
+						"w": 66,
+						"h": 79
+					}
+				},
+				{
+					"filename": "infect_15.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 37,
+						"y": 27,
+						"w": 67,
+						"h": 79
+					},
+					"frame": {
+						"x": 409,
+						"y": 561,
+						"w": 67,
+						"h": 79
+					}
+				},
+				{
+					"filename": "infect_17.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 22,
+						"w": 66,
+						"h": 79
+					},
+					"frame": {
+						"x": 1,
+						"y": 632,
+						"w": 66,
+						"h": 79
+					}
+				},
+				{
+					"filename": "achieve_17.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 24,
+						"w": 64,
+						"h": 80
+					},
+					"frame": {
+						"x": 69,
+						"y": 634,
+						"w": 64,
+						"h": 80
+					}
+				},
+				{
+					"filename": "achieve_18.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 24,
+						"w": 64,
+						"h": 80
+					},
+					"frame": {
+						"x": 135,
+						"y": 635,
+						"w": 64,
+						"h": 80
+					}
+				},
+				{
+					"filename": "infect_13.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 25,
+						"w": 68,
+						"h": 80
+					},
+					"frame": {
+						"x": 201,
+						"y": 637,
+						"w": 68,
+						"h": 80
+					}
+				},
+				{
+					"filename": "infect_5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 28,
+						"w": 67,
+						"h": 80
+					},
+					"frame": {
+						"x": 271,
+						"y": 640,
+						"w": 67,
+						"h": 80
+					}
+				},
+				{
+					"filename": "infect_7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 25,
+						"w": 67,
+						"h": 80
+					},
+					"frame": {
+						"x": 340,
+						"y": 641,
+						"w": 67,
+						"h": 80
+					}
+				},
+				{
+					"filename": "infect_10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 23,
+						"w": 68,
+						"h": 81
+					},
+					"frame": {
+						"x": 409,
+						"y": 642,
+						"w": 68,
+						"h": 81
+					}
+				},
+				{
+					"filename": "achieve_10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 22,
+						"w": 62,
+						"h": 82
+					},
+					"frame": {
+						"x": 1,
+						"y": 713,
+						"w": 62,
+						"h": 82
+					}
+				},
+				{
+					"filename": "infect_4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 43,
+						"y": 23,
+						"w": 68,
+						"h": 81
+					},
+					"frame": {
+						"x": 65,
+						"y": 716,
+						"w": 68,
+						"h": 81
+					}
+				},
+				{
+					"filename": "infect_8.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 28,
+						"y": 22,
+						"w": 68,
+						"h": 81
+					},
+					"frame": {
+						"x": 135,
+						"y": 719,
+						"w": 68,
+						"h": 81
+					}
+				},
+				{
+					"filename": "achieve_9.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 19,
+						"w": 60,
+						"h": 85
+					},
+					"frame": {
+						"x": 205,
+						"y": 719,
+						"w": 60,
+						"h": 85
+					}
+				},
+				{
+					"filename": "infect_9.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 26,
+						"w": 70,
+						"h": 82
+					},
+					"frame": {
+						"x": 267,
+						"y": 722,
+						"w": 70,
+						"h": 82
+					}
+				},
+				{
+					"filename": "infect_3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 43,
+						"y": 27,
+						"w": 70,
+						"h": 83
+					},
+					"frame": {
+						"x": 339,
+						"y": 725,
+						"w": 70,
+						"h": 83
+					}
+				},
+				{
+					"filename": "infect_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 43,
+						"y": 22,
+						"w": 72,
+						"h": 85
+					},
+					"frame": {
+						"x": 411,
+						"y": 725,
+						"w": 72,
+						"h": 85
+					}
+				},
+				{
+					"filename": "infect_0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 40,
+						"y": 21,
+						"w": 74,
+						"h": 86
+					},
+					"frame": {
+						"x": 1,
+						"y": 799,
+						"w": 74,
+						"h": 86
+					}
+				},
+				{
+					"filename": "achieve_8.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 37,
+						"y": 15,
+						"w": 56,
+						"h": 89
+					},
+					"frame": {
+						"x": 77,
+						"y": 799,
+						"w": 56,
+						"h": 89
+					}
+				},
+				{
+					"filename": "infect_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 42,
+						"y": 26,
+						"w": 74,
+						"h": 87
+					},
+					"frame": {
+						"x": 135,
+						"y": 806,
+						"w": 74,
+						"h": 87
+					}
+				},
+				{
+					"filename": "achieve_7.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 38,
+						"y": 11,
+						"w": 53,
+						"h": 93
+					},
+					"frame": {
+						"x": 211,
+						"y": 806,
+						"w": 53,
+						"h": 93
+					}
+				},
+				{
+					"filename": "achieve_6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 40,
+						"y": 7,
+						"w": 50,
+						"h": 97
+					},
+					"frame": {
+						"x": 266,
+						"y": 806,
+						"w": 50,
+						"h": 97
+					}
+				},
+				{
+					"filename": "achieve_5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 3,
+						"w": 47,
+						"h": 101
+					},
+					"frame": {
+						"x": 318,
+						"y": 810,
+						"w": 47,
+						"h": 101
+					}
+				},
+				{
+					"filename": "achieve_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 46,
+						"y": 0,
+						"w": 37,
+						"h": 104
+					},
+					"frame": {
+						"x": 367,
+						"y": 810,
+						"w": 37,
+						"h": 104
+					}
+				},
+				{
+					"filename": "achieve_3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 0,
+						"w": 41,
+						"h": 104
+					},
+					"frame": {
+						"x": 406,
+						"y": 812,
+						"w": 41,
+						"h": 104
+					}
+				},
+				{
+					"filename": "achieve_4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 43,
+						"y": 0,
+						"w": 43,
+						"h": 104
+					},
+					"frame": {
+						"x": 449,
+						"y": 812,
+						"w": 43,
+						"h": 104
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:060fb1fd0d264167d88fc055dcfb4fbf:116f06eca23a57e704a384701bd59f8b:75b90f264689c5e2a627a9216bda1b82$"
+	}
+}
