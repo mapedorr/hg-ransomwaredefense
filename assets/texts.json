@@ -185,6 +185,7 @@
     "HUD/Overlay.CryptoSheriff.uploaded": "Archivo %1 subido",
     "HUD/Overlay.CryptoSheriff.url": "URL del Ransomware: %1",
     "HUD/Overlay.CryptoSheriff.no_clipboard": "No hay nada para pegar",
+    "HUD/Overlay.CryptoSheriff.start": "Iniciando",
     "HUD/Overlay.CryptoSheriff.searching": "Buscando %1",
     "HUD/Overlay.CryptoSheriff.result": "El nombre del Ransomware que tiene infectado este dispositivo es:",
 
