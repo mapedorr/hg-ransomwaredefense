@@ -34,7 +34,7 @@
 
     "intro.msg01": "¡BIENVENID@ AL MARAVILLOSO MUNDO DEL EMPRENDIMIENTO!",
     "intro.msg02": "CON ESTA NUEVA STARTUP AL FIN LOGRARÁS EL ÉXITO PROFESIONAL Y EL DE TUS LEALES TRABAJADORES.",
-    "intro.msg03": "MANTEN LA EMPRESA A FLOTE DURANTE 8 DÍAS Y GENERA 16 GB DE DATOS PARA CUMPLIR CON LAS EXPECTATIVAS DEL CLIENTE.",
+    "intro.msg03": "MANTÉN LA EMPRESA A FLOTE DURANTE 8 DÍAS Y GENERA 16 GB DE DATOS PARA CUMPLIR CON LAS EXPECTATIVAS DEL CLIENTE.",
     "intro.msg04": "RECUERDA MANTENER TUS DATOS SEGUROS Y LIBRES DE MALWARE PARA SU ENTREGA.",
     "intro.msg05": "¡TEN CUIDADO! \nLOS CIBERDELINCUENTES SIEMPRE TIENEN SUS OJOS SOBRE LAS EMPRESAS CON GRAN POTENCIAL.",
 
@@ -46,6 +46,7 @@
     "HUD/Results.days_away": "Faltan %1 días para la finalización del proyecto",
     "HUD/Results.gen_data": "Datos generados en el día",
     "HUD/Results.bck_data": "Datos respaldados en el día",
+    "HUD/Results.cur_money": "Fondos disponibles:",
     "HUD/Results.gen_money": "Dinero generado:",
     "HUD/Results.costs_label": "Costos operacionales:",
     "HUD/Results.data_away": "Tienes %1 en respaldo, te hacen falta %2 para cumplir tu objetivo",
@@ -91,6 +92,8 @@
     "HUD/Help.ransomware_learning_01": "¿Qué es un Ransomware?",
     "HUD/Help.ransomware_learning_02": "Herramientas",
     "HUD/Help.ransomware_learning_03": "No pagues",
+    "HUD/Help.ransomware_learning_04": "Costos en Colombia",
+    "HUD/Help.ransomware_learning_05": "Ransomware en Colombia",
     "HUD/Help.decrypt_learning_01": "NoMoreRansome",
     "HUD/Help.decrypt_learning_02": "Identificación",
     "HUD/Help.decrypt_learning_03": "Descifrado",
@@ -163,7 +166,7 @@
     "HUD/Learning.decrypt_learning_02": "En www.nomoreransome.org encontrarás software que te ayudará a detectar qué tipo de RANSOMWARE tienes y si existe una llave para recuperar tus datos.",
     "HUD/Learning.decrypt_learning_03": "DESCIFRAR es un proceso tedioso pero hay posibilidad de que puedas recuperar tus datos de esta manera.",
 
-    "HUD/Overlay.PayRansomware.description": "¡Sus datos han sido encriptados! Para recuperarlos debera pagar:",
+    "HUD/Overlay.PayRansomware.description": "¡Sus datos han sido encriptados! Para recuperarlos deberá pagar:",
     "HUD/Overlay.PayRansomware.raise": "El precio\naumentará en:",
     "HUD/Overlay.PayRansomware.delete": "Los archivos\nse eliminarán en:",
     "HUD/Overlay.PayRansomware.url": "Copiar URL de Pago",
