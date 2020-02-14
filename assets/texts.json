@@ -34,7 +34,7 @@
 
     "intro.msg01": "¡BIENVENID@ AL MARAVILLOSO MUNDO DEL EMPRENDIMIENTO!",
     "intro.msg02": "CON ESTA NUEVA STARTUP AL FIN LOGRARÁS EL ÉXITO PROFESIONAL Y EL DE TUS LEALES TRABAJADORES.",
-    "intro.msg03": "MANTÉN LA EMPRESA A FLOTE DURANTE 8 DÍAS Y GENERA 16 GB DE DATOS PARA CUMPLIR CON LAS EXPECTATIVAS DEL CLIENTE.",
+    "intro.msg03": "MANTÉN LA EMPRESA A FLOTE DURANTE 8 DÍAS Y GENERA 16 GB DE DATOS EN RESPALDO PARA CUMPLIR CON LAS EXPECTATIVAS DEL CLIENTE.",
     "intro.msg04": "RECUERDA MANTENER TUS DATOS SEGUROS Y LIBRES DE MALWARE PARA SU ENTREGA.",
     "intro.msg05": "¡TEN CUIDADO! \nLOS CIBERDELINCUENTES SIEMPRE TIENEN SUS OJOS SOBRE LAS EMPRESAS CON GRAN POTENCIAL.",
 
@@ -135,9 +135,15 @@
     "End.infections": "Veces infectado:",
     "End.rejects": "Ataques evitados:",
     "End.payments": "Pagos realizados:",
+    "End.points": "Has obtenido %1 puntos",
     "End.no_funds": "¡Te quedaste sin dinero!",
     "End.insufficient_data": "¡Datos respaldados insuficientes!",
     "End.won": "¡Lo lograste!",
+    "End.finish": "Finalizar",
+
+    "Credits.thanks": "Gracias por jugar",
+    "Credits.made_by": "Un juego hecho por:",
+    "Credits.and": "y",
 
     "HUD/Learning.first_training": "Mantenerte CAPACITADO reducirá la vulnerabilidad de la empresa.",
     "HUD/Learning.training_levelUp_01": "Sé cuidadoso al abrir correos de remitentes desconocidos.",
