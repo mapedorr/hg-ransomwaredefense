@@ -1,0 +1,11 @@
+{
+  "env": "prod",
+  "domains": {
+    "test": "https://prueba.hackergame.co/hackergame/",
+    "prod": "https://www.hackergame.co/hackergame/"
+  },
+  "use_proxy": true,
+  "proxy": "https://cors-anywhere.herokuapp.com/",
+  "api": "rest/public/game/api",
+  "signature": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhayI6IkFjY2Vzc0tleVAxIiwic2siOiJTaXRlS2V5UDEifQ.6koI00ZOpZ1Rmmi1XZxhRqCqfQlM9HgAYQtq7E729yE"
+}
